@@ -2,4 +2,5 @@
 
 A short video demonstration of The Abyss Listens (under 5 minutes).
 
-Link: _to be added (YouTube or Google Drive)_
+Link: *https://www.youtube.com/watch?v=fOMjWcl5LOQ*
+
