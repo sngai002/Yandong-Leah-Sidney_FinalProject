@@ -4,7 +4,7 @@ Yandong, Leah, Sidney. DM3008 Generative Art, NTU, Final Project, 2026.
 
 Live piece: https://sngai002.github.io/Yandong-Leah-Sidney_FinalProject/TheAbyssListens/
 
-Video walkthrough: see the [Video](Video/) folder.
+Video walkthrough: https://www.youtube.com/watch?v=fOMjWcl5LOQ, also in the [Video](Video/) folder.
 
 ## Synopsis
 
@@ -207,6 +207,7 @@ TheAbyssListens/
                   in its header
 Video/
   README.md       the link to the video walkthrough
+  The_Abyss_Listens_Comnpressed.mp4   the walkthrough itself
 README.md         this write-up
 ```
 
